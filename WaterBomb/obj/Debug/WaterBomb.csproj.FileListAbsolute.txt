@@ -1,0 +1,10 @@
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\bin\Debug\WaterBomb.exe.config
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\bin\Debug\WaterBomb.exe
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\bin\Debug\WaterBomb.pdb
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\obj\Debug\WaterBomb.csprojAssemblyReference.cache
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\obj\Debug\WaterBomb.Properties.Resources.resources
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\obj\Debug\WaterBomb.csproj.GenerateResource.cache
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\obj\Debug\WaterBomb.csproj.CoreCompileInputs.cache
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\obj\Debug\WaterBomb.exe
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\obj\Debug\WaterBomb.pdb
+C:\Users\maury\source\repos\WaterBomb\WaterBomb\obj\Debug\WaterBomb.Form1.resources
